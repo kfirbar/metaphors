@@ -1,0 +1,481 @@
+Metaphor,Interpretation,Freq
+alcohol is a crutch,support,5
+anger is a fire,destructive,5
+anger is a heart,emotion,5
+beauty is a passport,means,5
+billboard is warts,disfiguring,5
+christ is a door,opportunity,5
+christian is salt,needed,5
+cigarettes is a timebomb,life-threatening,5
+city is a jungle,complicated,5
+clouds are cotton,fluffy,5
+debt is a disease,harmful,5
+deserts are ovens,hot,5
+desk is a junkyard,mess,5
+dream is a water,fluid,5
+education is a stairway,enabler,5
+exam is a hurdle,challenge,5
+eyelids are curtains,protection,5
+faith is a raft,lifesaver,5
+family is a fortress,strong,9
+family is a fortress,Protective,8
+family is a fortress,Secure,5
+family is a fortress,Huge,2
+family is a fortress,Supportive,2
+family is a fortress,Large,2
+family is a fortress,Lasting,2
+family is a fortress,Important,2
+fingerprints are portraits,identifier,5
+friendship is a rainbow,connection,5
+genes are blueprints,Maps,4
+genes are blueprints,Unique,3
+genes are blueprints,Informative,3
+genes are blueprints,Designing,2
+genes are blueprints,Identity,2
+genes are blueprints,Personal,2
+giraffes are skyscrapers,Tall,18
+giraffes are skyscrapers,High,6
+giraffes are skyscrapers,Long,5
+giraffes are skyscrapers,Imposing,3
+giraffes are skyscrapers,Big,2
+giraffes are skyscrapers,Huge,2
+giraffes are skyscrapers,Strong,2
+god is a fire,Powerful,10
+god is a fire,Destructive,6
+god is a fire,Dangerous,5
+god is a fire,Hot,3
+god is a fire,Warm,2
+god is a fire,Great,2
+god is a fire,Strong,2
+god is a fire,Intimidating,2
+god is a fire,Engulfing,2
+god is a parent,Loving,11
+god is a parent,Caring,5
+god is a parent,Protective,5
+god is a parent,Authoritative,2
+god is a parent,Trustworthy,2
+god is a parent,Forgiving,2
+god is a parent,Guiding,2
+health is a glass,Fragile,10
+health is a glass,Breakable,9
+health is a glass,Transparent,5
+health is a glass,Clear,3
+health is a glass,Full,2
+health is a glass,Delicate,2
+health is a glass,Empty,2
+heart is a closet,Closed/Open,11
+heart is a closet,Opened,4
+heart is a closet,Messy,4
+heart is a closet,Full,3
+heart is a closet,Hidden,2
+heart is a closet,Fillable,2
+heart is a closet,Private,2
+heart is a closet,Protective,2
+heaven is a treasure,Golden,6
+heaven is a treasure,Richening,3
+heaven is a treasure,Pleasant,2
+heaven is a treasure,Beautiful,2
+heaven is a treasure,Nice,2
+heaven is a treasure,Value,2
+heaven is a treasure,Dream,2
+heaven is a treasure,Magical,2
+heaven is a treasure,Precious,2
+heaven is a treasure,Shiny,2
+heaven is a treasure,Happiness,2
+highway is a snake,Long,9
+highway is a snake,Slippery,5
+highway is a snake,Dangerous,5
+highway is a snake,Curvy,3
+highway is a snake,Fast,3
+highway is a snake,Windy,3
+highway is a snake,Scary,3
+highway is a snake,Poisonous,2
+highway is a snake,Shappy,2
+insult is a dagger,Hurtful,19
+insult is a dagger,Sharp,6
+insult is a dagger,Dangerous,3
+insult is a dagger,Deadly,3
+insult is a dagger,Harmful,2
+insult is a dagger,Bad,2
+job is a jail,confining,5
+knowledge is a light,Bright,11
+knowledge is a light,Illuminates,3
+knowledge is a light,Enlighten,3
+knowledge is a light,Powerful,3
+knowledge is a light,Needed,2
+knowledge is a light,Hope,2
+knowledge is a light,Necessary,2
+knowledge is money,Powerful,8
+knowledge is money,Important,6
+knowledge is money,Needful,4
+knowledge is money,Expensive,3
+knowledge is money,Useful,3
+knowledge is money,Valuable,2
+knowledge is money,Necessary,2
+knowledge is money,Wanted,2
+knowledge is power,Important,5
+knowledge is power,Strength,4
+knowledge is power,Strong,3
+knowledge is power,Wanted,3
+knowledge is power,Desired,2
+knowledge is power,Superior,2
+knowledge is river,Long,7
+knowledge is river,Flowing,3
+knowledge is river,Strong,3
+knowledge is river,Widening,3
+knowledge is river,Deep,2
+knowledge is river,Never-Ending,2
+knowledge is river,Dangerous,2
+knowledge is river,Powerful,2
+lawyers are sharks,Dangerous,7
+lawyers are sharks,Mean,4
+lawyers are sharks,Big,4
+lawyers are sharks,Sneaky,4
+lawyers are sharks,Scary,3
+lawyers are sharks,Cruel,2
+lawyers are sharks,Sharp,2
+lawyers are sharks,Hungry,2
+lawyers are sharks,Powerful,2
+lawyers are sharks,Eat,2
+lawyers are snakes,Sneaky,7
+lawyers are snakes,Liars,5
+lawyers are snakes,Slippery,4
+lawyers are snakes,Deceivable,4
+lawyers are snakes,Poisonous,4
+lawyers are snakes,Scary,4
+lawyers are snakes,Dangerous,3
+lawyers are snakes,Slithery,2
+lawyers are snakes,Evil,2
+lawyers are snakes,Ugly,2
+lawyers are snakes,Mean,2
+lawyers are snakes,Vicious,2
+life is a beach,Relaxing,9
+life is a beach,Fun,7
+life is a beach,Sunny,5
+life is a beach,Beautiful,3
+life is a beach,Calming,3
+life is a beach,Warm,3
+life is a beach,Enjoyable,3
+life is a beach,Soft,2
+life is a beach,Soothing,2
+life is a beach,Happy,2
+life is a beach,Peaceful,2
+life is a bottle,Full,5
+life is a bottle,Empty,4
+life is a bottle,Fragile,3
+life is a bottle,Clear,3
+life is a bottle,Closed,2
+life is a bottle,Trapped,2
+life is a bottle,Contained,2
+life is a bottle,Short,2
+life is a bottle,Breakable,2
+life is a bottle,Transparent,2
+life is a dream,Unreal,5
+life is a dream,Nice,2
+life is a dream,Peaceful,2
+life is a dream,Quick,2
+life is a dream,Good,2
+life is a dream,Perfect,2
+life is a dream,Happiness,2
+life is a dream,Personal,2
+life is a dream,Interpreting,2
+life is a dream,Short,2
+life is joke,Funny,18
+life is joke,Amusing,4
+life is joke,Enjoyable,4
+life is joke,Short,2
+life is joke,Fun,2
+life is joke,Laughable,2
+life is journey,Long,10
+life is journey,Adventurous,8
+life is journey,Fun,6
+life is journey,Exciting,5
+life is journey,Hard,3
+life is journey,Path,2
+life is journey,Road,2
+life is a river,Long,8
+life is a river,Fluid,6
+life is a river,Beautiful,3
+life is a river,Water,2
+life is a river,Changing,2
+life is a river,Mysterious,2
+life is a river,Deep,2
+love is a child,Young,6
+love is a child,Innocent,5
+love is a child,Immature,3
+love is a child,Sweet,3
+love is a child,Happy,2
+love is a child,Kind,2
+love is a child,Loving,2
+love is a child,Small,2
+love is a child,Playful,2
+love is a child,Fun,2
+love is a child,Growing,2
+love is a drug,Addictive,17
+love is a drug,Dangerous,4
+love is a drug,High,3
+love is a drug,Painful,2
+love is a drug,Bad,2
+love is a drug,Fun,2
+love is a drug,Healing,2
+love is a drug,Powerful,2
+love is a flower,Beautiful,9
+love is a flower,Pretty,4
+love is a flower,Colorful,4
+love is a flower,Soft,2
+love is gold,Precious,8
+love is gold,Rare,7
+love is gold,Shiny,5
+love is gold,Expensive,3
+love is gold,Worthy,2
+love is gold,Great,2
+love is gold,Hard,2
+love is gold,Heavy,2
+love is gold,Important,2
+love is gold,Treasure,2
+love is gold,Valuable,2
+love is gold,Rich,2
+love is melody,Soothing,5
+love is melody,Relaxing,4
+love is melody,Calming,3
+love is melody,Happiness,3
+love is melody,Peaceful,3
+love is melody,Musical,2
+love is melody,Smooth,2
+love is melody,Song,2
+love is melody,Sweet,2
+love is melody,Beautiful,2
+love is melody,Romantic,2
+love is melody,Harmonious,2
+love is a rainbow,Colorful,14
+love is a rainbow,Beautiful,10
+love is a rainbow,Bright,3
+love is a rainbow,Nice,3
+love is a rainbow,Rare,3
+love is a rainbow,Sparkling,2
+love is a rainbow,Uplifting,2
+love is a rainbow,Magical,2
+love is a rose,Beautiful,9
+love is a rose,Blooming,4
+love is a rose,Pretty,3
+love is a rose,Red,3
+love is a rose,Flower,0
+love is a rose,Pink,0
+love is a rose,Delicate,0
+love is a rose,Romantic,0
+love is a rose,Prickly,0
+love is a rose,Soft,0
+memory is a river,Fluid,10
+memory is a river,Long,6
+memory is a river,Full,2
+memory is a river,Narrow,2
+memory is a river,Stream,2
+memory is a sponge,Absorbent,13
+memory is a sponge,Soaking,3
+memory is a sponge,Expandable,2
+memory is a sponge,Flexible,2
+memory is a sponge,Full,2
+memory is a sponge,Retainable,2
+men is a fish,weak,5
+mind is a computer,Complicated,11
+mind is a computer,Intelligent,3
+mind is a computer,Memory,3
+mind is a computer,Calculating,3
+mind is a computer,Fast,2
+mind is a computer,Mechanical,2
+mind is a computer,Electrical,2
+mind is a computer,Smart,2
+mind is a computer,Technological,2
+mind is a computer,Useful,2
+money is oxygen,Needed,10
+money is oxygen,Life,7
+money is oxygen,Vital,5
+money is oxygen,Essential,4
+money is oxygen,Important,4
+money is oxygen,Survival,3
+money is oxygen,Useful,2
+money is oxygen,Air,2
+money is oxygen,Everything,2
+money is oxygen,Sought Out,2
+music is a medicine,Healing,10
+music is a medicine,Helpful,8
+music is a medicine,Cure,6
+music is a medicine,Calming,4
+music is a medicine,Soothing,4
+music is a medicine,Addictive,3
+music is a medicine,Relief,2
+music is a medicine,Relaxing,2
+music is a medicine,Drugs,2
+obligation is a shackle,Annoying,5
+obligation is a shackle,Restraining,4
+obligation is a shackle,Metallic,2
+obligation is a shackle,Prison,2
+obligation is a shackle,Duty,2
+obligation is a shackle,Restricting,2
+obligation is a shackle,Trapped,2
+obligation is a shackle,Uncomfortable,2
+peace is a river,Calming,15
+peace is a river,Long,5
+peace is a river,Relaxing,4
+peace is a river,Quiet,3
+peace is a river,Flowing,3
+peace is a river,Clear,2
+pet is a kid,Loving,5
+pet is a kid,Cute,5
+pet is a kid,Annoying,4
+pet is a kid,Fun,4
+pet is a kid,Small,4
+pet is a kid,Loud,3
+pet is a kid,Curious,2
+pet is a kid,Innocent,2
+pet is a kid,Playful,2
+rage is a volcano,Erupts,10
+rage is a volcano,Explosive,9
+rage is a volcano,Dangerous,8
+rage is a volcano,Hot,6
+rage is a volcano,Deadly,4
+rage is a volcano,Red,2
+runner is a torpedo,Fast,16
+runner is a torpedo,Speedy,3
+salesman is a bulldozer,Destructive,7
+salesman is a bulldozer,Annoying,4
+salesman is a bulldozer,Aggressive,3
+salesman is a bulldozer,Imposing,3
+salesman is a bulldozer,Loud,3
+salesman is a bulldozer,Powerful,2
+salesman is a bulldozer,Big,2
+salesman is a bulldozer,Tough,2
+salesman is a bulldozer,Noisy,2
+school is a zoo,Busy,5
+school is a zoo,Crowded,5
+school is a zoo,Loud,5
+school is a zoo,Wild,5
+school is a zoo,Noisy,4
+school is a zoo,Full,4
+school is a zoo,Crazy,3
+school is a zoo,Animals,2
+school is a zoo,Packed,2
+school is a zoo,Messy,2
+school is a zoo,Dirty,2
+school is a zoo,Smelly,2
+science is politics,opinionated,5
+skating is a flying,Freedom,7
+skating is a flying,Fast,5
+skating is a flying,Relaxing,5
+skating is a flying,Fun,3
+skating is a flying,Moving,2
+skating is a flying,Soaring,2
+skating is a flying,Amazing,2
+skating is a flying,Gliding,2
+skating is a flying,Lightweight,2
+skating is a flying,Enjoying,2
+skating is a flying,Exciting,2
+skating is a flying,Bird,2
+smog is a shroud,covers,5
+soldiers are pawns,Unimportant,2
+soldiers are pawns,Followers,2
+soldiers are pawns,Movable,2
+soldiers are pawns,Small,2
+store is a zoo,Crowded,5
+store is a zoo,Loud,4
+store is a zoo,Noisy,4
+store is a zoo,Messy,3
+store is a zoo,Busy,3
+store is a zoo,Wild,3
+store is a zoo,Crazy,2
+store is a zoo,Hectic,2
+store is a zoo,Packed,2
+store is a zoo,Animals,2
+store is a zoo,Smelly,2
+store is a zoo,Confining,2
+teacher is a sculptor,designing,5
+television is a candy,Sweet,9
+television is a candy,Addictive,7
+television is a candy,Good,5
+television is a candy,Fun,4
+television is a candy,Harmful,3
+television is a candy,Treat,3
+television is a candy,Tasty,3
+television is a candy,Yummy,2
+television is a candy,Enjoyable,2
+television is a candy,Entertaining,2
+tv is a drug,Addictive,19
+tv is a drug,Bad,4
+tv is a drug,Fun,4
+tv is a drug,Good,2
+tv is a drug,Harmful,2
+tv is a drug,Exciting,2
+tv is a drug,Unhealthy,2
+tv is a drug,Healing,2
+time is money,Important,8
+time is money,Powerful,3
+time is money,Value,3
+time is money,Precious,3
+time is money,Expensive,2
+time is money,Limited,2
+time is money,Spent,2
+time is money,Needed,2
+time is a snail,Slow,15
+time is a snail,Small,3
+time is a snail,Long,3
+time is a snail,Steady,2
+time is a snail,Slimy,2
+time is a snail,Never-Ending,2
+time is a thief,causes loss,5
+tongue is fire,Hot,9
+tongue is fire,Red,5
+tongue is fire,Burning,4
+tongue is fire,Spicy,3
+tongue is fire,Warm,2
+tongue is fire,Angry,2
+tongue is fire,Hurtful,2
+tongue is fire,Damaging,2
+tree is an umbrella,Protects,14
+tree is an umbrella,Covers,5
+tree is an umbrella,Big,3
+tree is an umbrella,Shading,3
+tree is an umbrella,Useful,3
+tree is an umbrella,Wide,2
+tree is an umbrella,Rainy,2
+tree is an umbrella,Refuge,2
+tree is an umbrella,Open,2
+trust is a glue,connecting,5
+typewriter is a dinosaur,Old,11
+typewriter is a dinosaur,Ancient,6
+typewriter is a dinosaur,Extinguished,6
+typewriter is a dinosaur,Big,2
+typewriter is a dinosaur,Antiques,2
+winter is a death,death of plants,5
+wisdom is an ocean,Vast,9
+wisdom is an ocean,Huge,8
+wisdom is an ocean,Wide,3
+wisdom is an ocean,Deep,3
+wisdom is an ocean,Infinite,2
+wisdom is an ocean,Flowing,2
+wisdom is an ocean,Mysterious,2
+wisdom is an ocean,Powerful,2
+women is a cat,Independent,5
+women is a cat,Soft,4
+women is a cat,Lovable,3
+women is a cat,Playful,2
+women is a cat,Sneaky,2
+women is a cat,Beautiful,2
+women is a cat,Sly,2
+women is a cat,Aggressive,2
+women is a cat,Smart,2
+women is a cat,Cuddling,2
+women is a cat,Intelligent,2
+Time is a changer,enables,5
+Love is a journey,develops.5
+The past is a pursuer,harmful,5
+The Mind is a Traveler,changes,5
+Competition is a war,contest,5
+Words Are Weapons,hurtful,5
+Well-being is wealth,valuable,5
+The mind is a Body,physical,5
+People are batteries,limited,5
+Emotions are forces,powerful,5
+hope is light,helpful,5
+Ideas are Food,resources,5
+Logic is gravity,necessary
+Money is a liquid,unstable
